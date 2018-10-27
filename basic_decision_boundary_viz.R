@@ -1,6 +1,10 @@
 #
 # visualize decision boundaries for various clasifiers
 #
+# original code from:
+# http://michael.hahsler.net/SMU/EMIS7332/R/viz_classifier.html
+# credit Michael Hahsler
+#
 # load packages
 #
 # caret for knn model
